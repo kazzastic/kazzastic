@@ -16,7 +16,13 @@ For the completion of my bachelow degree program I had to complete a 2 semester 
 During my 4th semester I landed an incredile research internship at the National Center for Artificial Intelligence(NCAI, NED-UET). I contributed towards an ongoing visual positioning system project by introducing Convolution Neural Network technique in order to classify building. I was also able to publish a part of this huge project which can be further explored [here](https://ieeexplore.ieee.org/document/9073795)
 
 Further more my current tech stack would be, 
-- FastAPI (python)
-- SpringBoot(Java)
-- Docker(containerization)
-- Heroku, GCP (cloud deployment)
+- FastAPI and Flask 
+- Pyspark
+- AWS, EC2, S3, Lambda, DynamoDB, Kinesis etc
+- GCP, Kubernetes Engine, Cloud Functions, Compute Engine, BigQuery, Artifact Registry etc
+- Airbyte
+- Databricks, Delta Tables etc
+- Redash, Superset etc
+- Docker and Kubernetes, on-prem and cloud managed
+
+I recenlty got hands on with end-to-end pipelining with kubernetes on Google Cloud [Docker and K8s deployment pipelining](https://github.com/kazzastic/GKE-gitAction-pipeline)
