@@ -17,10 +17,10 @@ During my 4th semester I landed an incredile research internship at the National
 
 Further more my current tech stack would be, 
 - FastAPI and Flask 
-- Pyspark
+- Pyspark for ETL and maintaining a data lake
 - AWS, EC2, S3, Lambda, DynamoDB, Kinesis etc
 - GCP, Kubernetes Engine, Cloud Functions, Compute Engine, BigQuery, Artifact Registry etc
-- Airbyte
+- Airbyte, open source contribution particularly to make an in-house tool for a startup in Hamburg
 - Databricks, Delta Tables etc
 - Redash, Superset etc
 - Docker and Kubernetes, on-prem and cloud managed
